@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 40.089%;" class="progress-item"></span><span style="background-color: #3572A5;width: 13.909%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 13.842%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 7.836%;" class="progress-item"></span><span style="background-color: #e34c26;width: 7.681%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.983%;" class="progress-item"></span><span style="background-color: #563d7c;width: 5.945%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 1.697%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.669%;" class="progress-item"></span><span style="background-color: #878787;width: 0.324%;" class="progress-item"></span><span style="background-color: #c1d026;width: 0.245%;" class="progress-item"></span><span style="background-color: #fcb32c;width: 0.236%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.148%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.121%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.086%;" class="progress-item"></span><span style="background-color: #844FBA;width: 0.075%;" class="progress-item"></span><span style="background-color: #555555;width: 0.059%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.031%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.018%;" class="progress-item"></span><span style="background-color: #fedf5b;width: 0.006%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 40.094%;" class="progress-item"></span><span style="background-color: #3572A5;width: 13.908%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 13.841%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 7.835%;" class="progress-item"></span><span style="background-color: #e34c26;width: 7.680%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.982%;" class="progress-item"></span><span style="background-color: #563d7c;width: 5.945%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 1.697%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.669%;" class="progress-item"></span><span style="background-color: #878787;width: 0.324%;" class="progress-item"></span><span style="background-color: #c1d026;width: 0.245%;" class="progress-item"></span><span style="background-color: #fcb32c;width: 0.236%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.148%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.121%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.086%;" class="progress-item"></span><span style="background-color: #844FBA;width: 0.075%;" class="progress-item"></span><span style="background-color: #555555;width: 0.059%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.031%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.018%;" class="progress-item"></span><span style="background-color: #fedf5b;width: 0.006%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">PHP</span>
-<span class="percent">7.84%</span>
+<span class="percent">7.83%</span>
 </li>
 
 
@@ -198,7 +198,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">5.95%</span>
+<span class="percent">5.94%</span>
 </li>
 
 
